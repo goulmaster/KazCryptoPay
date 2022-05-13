@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KCP/static/css/main.3d4d2913.css",
+    "main.js": "/KCP/static/js/main.abf7f66b.js",
+    "index.html": "/KCP/index.html",
+    "main.3d4d2913.css.map": "/KCP/static/css/main.3d4d2913.css.map",
+    "main.abf7f66b.js.map": "/KCP/static/js/main.abf7f66b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d4d2913.css",
+    "static/js/main.abf7f66b.js"
+  ]
+}
